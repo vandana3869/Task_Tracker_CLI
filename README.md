@@ -12,7 +12,7 @@ installed.
 
 ## Project URL
 
-[Task Tracker CLI on GitHub](https://github.com/vandana3869/Task_Tracker_CLI)
+[Task Tracker CLI on GitHub](https://roadmap.sh/projects/task-tracker)
 
 
 ## Run the application
