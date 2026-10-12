@@ -10,6 +10,11 @@ A small command-line task tracker written in Python. Tasks are saved locally in
 The project uses only Python's standard library; no packages need to be
 installed.
 
+## Project URL
+
+[Task Tracker CLI on GitHub](https://github.com/vandana3869/Task_Tracker_CLI)
+
+
 ## Run the application
 
 Open Command Prompt or PowerShell, change to the project directory, and run:
